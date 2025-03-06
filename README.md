@@ -1,6 +1,6 @@
-### 🌑 **Madara_**  
+### 🌑 **Mateusdev3**  
 ```diff
-+ Dev | Gamer | SysAdmin
++ Dev | Engineer | SysAdmin
 ```
 
 🔥 **Full-Stack | .NET | Node.js**
@@ -14,7 +14,7 @@ skills:
 ```
 
 📡 **Building: ISP Management App**  
-🎮 **Playing: DayZ | BF 2042**  
+🎮 **Playing: DayZ | Battlefield 2042**  
 🚀 **Hosting: SquareCloud | VPS | AWS Compute**  
 
 ---
