@@ -10,7 +10,7 @@ skills:
   - Backend: Python, Node.js, C#, C++
   - Frontend: HTML, CSS, JS, React, React Native
   - Frameworks: .NET, ASP.NET
-  - Network: Wireless
+  - Network: Firewall, QoS
 ```
 
 📡 **Building: ISP Management App**  
