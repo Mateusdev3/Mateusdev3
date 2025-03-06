@@ -1,16 +1,23 @@
-## Hi there 👋
+### 🌑 **Madara_**  
+```diff
++ Dev | Gamer | SysAdmin
+```
 
-<!--
-**Mateusdev3/Mateusdev3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 **Full-Stack | .NET | Node.js**
 
-Here are some ideas to get you started:
+```yaml
+skills:
+  - Backend: Python, Node.js, C#, C++
+  - Frontend: HTML, CSS, JS, React, React Native
+  - Frameworks: .NET, ASP.NET
+  - Network: Wireless
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📡 **Building: ISP Management App**  
+🎮 **Playing: DayZ | BF 2042**  
+🚀 **Hosting: SquareCloud | VPS | AWS Compute**  
+
+---
+```diff
+⚡ "Automating. Creating. Dominating."
+```
