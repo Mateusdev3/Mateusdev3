@@ -13,7 +13,6 @@ skills:
   - Network: Firewall, QoS
 ```
 
-📡 **Building: ISP Management App**  
 🎮 **Playing: DayZ | Battlefield 2042**  
 🚀 **Hosting: SquareCloud | Cloud Server | AWS Compute**  
 
