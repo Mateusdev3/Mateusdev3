@@ -13,10 +13,7 @@ skills:
   - Network: Firewall, QoS
 ```
 
-🎮 **Playing: DayZ | Battlefield 2042**  
 🚀 **Hosting: SquareCloud | Cloud Server | AWS Compute**  
 
 ---
-```diff
-⚡ "Automating. Creating. Dominating."
-```
+
