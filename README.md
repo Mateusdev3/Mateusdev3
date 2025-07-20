@@ -7,8 +7,8 @@
 
 ```yaml
 skills:
-  - Backend: Python, Node.js, C#, C++
-  - Frontend: HTML, CSS, JS, React, React Native
+  - Backend: Node.js, C#, C++
+  - Frontend: HTML, CSS, JS, React
   - Frameworks: .NET, ASP.NET
   - Network: Firewall, QoS
 ```
