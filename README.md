@@ -17,7 +17,7 @@ skills:
 ---
 ![Troféus](https://github-profile-trophy.vercel.app/?username=Mateusdev3)
  
- ** Stats **  
+ **Stats**  
 ---
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Mateusdev3&show_icons=true&theme=radical)
 
