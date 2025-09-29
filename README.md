@@ -16,4 +16,6 @@ skills:
 🚀 **Hosting: SquareCloud | Cloud Server | AWS Compute**  
 
 ---
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Mateusdev3&show_icons=true&theme=radical)
+
 
