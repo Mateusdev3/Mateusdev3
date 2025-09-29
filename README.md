@@ -17,7 +17,8 @@ skills:
 ---
 ![Troféus](https://github-profile-trophy.vercel.app/?username=Mateusdev3)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Mateusdev3&show_icons=true&theme=radical)
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mateusdev3&theme=github)
+[![Meu GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mateusdev3&theme=github)](https://github.com/Mateusdev3/github-readme-activity-graph)
+
 
 
 
