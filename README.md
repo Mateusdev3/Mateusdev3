@@ -18,8 +18,7 @@ skills:
  **Stats**  
 ---
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Mateusdev3&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateusdev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateusdev3&show_icons=true)
 
 
 
