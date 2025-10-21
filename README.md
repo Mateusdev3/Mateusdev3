@@ -13,7 +13,7 @@ skills:
   - Network: Firewall, QoS
 ```
 
-🚀 **Hosting: SquareCloud | Oracle | AWS Compute**  
+🚀 **Hosting: SquareCloud | Oracle Cloud | AWS Compute**  
 ---
  **Stats**  
 ---
