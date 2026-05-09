@@ -12,7 +12,7 @@ Atuo com tecnologias como **React**, **TypeScript**, **Next.js**, **C#**, **.NET
 * Desenvolvimento desktop com C#/.NET e WPF.
 * Integração com APIs externas, autenticação via tokens e consumo de dados em larga escala.
 * Criação de ferramentas internas para reduzir trabalho manual e acelerar rotinas operacionais.
-* Experiência com Firebase, Firestore, SQLite, MySQL e manipulação de arquivos Excel, KML, XML, JSON e PDF.
+* Experiência com Firebase, Firestore, SQLite, MySQL
 * Interesse em soluções que unem desenvolvimento, análise de dados, automação e infraestrutura.
 
 ---
@@ -115,10 +115,4 @@ Sistema web para **conferência de itinerários de transporte público** a parti
 
 ---
 
-## Contato
 
-[GitHub](https://github.com/Mateusdev3)
-
----
-
-> Busco criar soluções que realmente economizam tempo, reduzem retrabalho e transformam processos manuais em sistemas práticos, escaláveis e confiáveis.
